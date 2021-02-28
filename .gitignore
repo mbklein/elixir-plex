@@ -1,0 +1,11 @@
+/_build/
+/config/*.local.exs
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+Plex-*.tar
+
+/tmp
